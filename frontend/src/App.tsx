@@ -27,8 +27,6 @@ const App = () => {
     }
   }, [ loadingStatus ])
 
-  console.log({ commits })
-
   return (
     <div>
       <nav className="navbar navbar-expand-lg bg-light">
