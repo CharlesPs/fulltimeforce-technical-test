@@ -17,3 +17,14 @@ npm run start:backend
 ```sh
 npm run start:frontend
 ```
+
+### API UI Url
+```sh
+http://localhost:3100/api
+```
+
+### Frontend Url
+```sh
+http://localhost:3000
+```
+
