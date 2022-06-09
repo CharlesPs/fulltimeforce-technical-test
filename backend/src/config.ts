@@ -1,6 +1,6 @@
 
 const config = {
-    ghToken: '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'
+    ghToken: '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'
 }
 
 export default config
